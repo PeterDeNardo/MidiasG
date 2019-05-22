@@ -1,0 +1,13 @@
+1 - D
+2 - A
+3 - B
+4 - 	getElementById 	- Pega um elemento do HTML com o ID especifico
+	innerHTML	- Acessa um elemento dentro do HTML
+	prompt		- Estoura para o usuário uma caixa para incerção de dados
+	alert		- Abre um pop-up para o usuário com uma mensagem
+	document	- São os elementos no formato HTML carregados na tela, ex: botões, check box, areas de texto
+	value		- Acessa o valor de um documento podendo autera-lo
+	var		- cria uma variável 
+	eval		- retorna uma String podendo realizar calculos dentro dela
+	function	- cria uma função 
+5 -
